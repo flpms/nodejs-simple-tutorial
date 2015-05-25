@@ -5,4 +5,5 @@ O objetivo desse repositório é servir como apoio a série de artigos que está
 
 Abaixo segue os links dos artigos na ordem em que foram escritos e que forem escritos.
 
-* [Artigo inicial] (https://medium.com/aprendendo-nodejs/nodejs-e-forma-complicada-que-vem-sendo-ensinado-6e7639b562db "A forma complicada que o NodeJS vem sendo ensinado!")
+1. [Artigo inicial] (https://medium.com/aprendendo-nodejs/nodejs-e-forma-complicada-que-vem-sendo-ensinado-6e7639b562db "A forma complicada que o NodeJS vem sendo ensinado!")
+2. [Segundo Artigo] (https://medium.com/aprendendo-nodejs/nodejs-desde-de-o-principio-ac77e1513762)
