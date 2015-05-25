@@ -1,7 +1,7 @@
 NodeJS Simple Tutorial
 ======================
 
-O objetivo desse repositório é servir como apoio a série de artigos que está sendo escrita na plataforma [medium](http://medium.com/@flpms "Medium do autor do repositório").
+O objetivo desse repositório é servir como apoio a série de artigos que está sendo escritos na plataforma [medium](http://medium.com/@flpms "Medium do autor do repositório").
 
 Abaixo segue os links dos artigos na ordem em que foram escritos e que forem escritos.
 
